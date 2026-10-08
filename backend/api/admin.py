@@ -1,4 +1,4 @@
-"""Admin."""
+"""Admin py."""
 
 from django.contrib import admin
 
